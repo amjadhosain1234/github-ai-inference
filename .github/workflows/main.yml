@@ -1,4 +1,3 @@
-name: Run GPT-4o on GitHub
 name: Run AI Inference
 on: [push, workflow_dispatch]
 
